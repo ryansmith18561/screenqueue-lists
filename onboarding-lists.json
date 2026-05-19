@@ -4,7 +4,7 @@
     {
       "id": "prestige-week",
       "title": "Shows of the month",
-      "subtitle": "Hand-picked monthly rotation of critically-loved shows.",
+      "subtitle": "Hand-picked weekly rotation of critically-loved shows.",
       "shows": [
         { "tvmazeId": 91311, "name": "Legends" },
         { "tvmazeId": 79932, "name": "Off Campus" },
@@ -14,14 +14,26 @@
         { "tvmazeId": 84539, "name": "Dutton Ranch" },
         { "tvmazeId": 28717, "name": "Good Omens" },
         { "tvmazeId": 54723, "name": "From" },
-        { "tvmazeId": 43450, "name": "The Chestnut Man" },
-        { "tvmazeId": 54285, "name": "Beef" },
-        { "tvmazeId": 91062, "name": "The Dark Wizard" },
-        { "tvmazeId": 64087, "name": "Rivals" }
+        { "tvmazeId": 43450, "name": "The Chestnut Man" }
+      ]
+    },
+    {
+      "id": "top-10",
+      "title": "Top 10 right now",
+      "subtitle": "The most-watched shows airing this week.",
+      "shows": [
+        { "tvmazeId": 2993,  "name": "Stranger Things" },
+        { "tvmazeId": 44778, "name": "House of the Dragon" },
+        { "tvmazeId": 46562, "name": "The Last of Us" },
+        { "tvmazeId": 53647, "name": "Wednesday" },
+        { "tvmazeId": 15299, "name": "The Boys" },
+        { "tvmazeId": 44458, "name": "Ted Lasso" },
+        { "tvmazeId": 41007, "name": "Loki" },
+        { "tvmazeId": 48830, "name": "Only Murders in the Building" },
+        { "tvmazeId": 55350, "name": "Abbott Elementary" },
+        { "tvmazeId": 73,    "name": "The Walking Dead" }
       ]
     }
-    
-      ]
-    }
-  
+  ]
+}
 
