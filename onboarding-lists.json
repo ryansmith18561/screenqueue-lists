@@ -3,19 +3,18 @@
   "lists": [
     {
       "id": "prestige-week",
-      "title": "Prestige shows of the week",
+      "title": "Shows of the month",
       "subtitle": "Hand-picked weekly rotation of critically-loved shows.",
       "shows": [
-        { "tvmazeId": 68242, "name": "Lord of the Flies" },
+        { "tvmazeId": 91311, "name": "Legends" },
+        { "tvmazeId": 79932, "name": "Off Campus" },
+        { "tvmazeId": 79390, "name": "Widow's Bay" },
         { "tvmazeId": 15299, "name": "The Boys" },
-        { "tvmazeId": 52341, "name": "Andor" },
-        { "tvmazeId": 37336, "name": "Shōgun" },
-        { "tvmazeId": 54198, "name": "The Bear" },
-        { "tvmazeId": 23470, "name": "Succession" },
-        { "tvmazeId": 36672, "name": "Yellowjackets" },
-        { "tvmazeId": 618,   "name": "Better Call Saul" },
-        { "tvmazeId": 16579, "name": "The Handmaid's Tale" },
-        { "tvmazeId": 44933, "name": "Severance" }
+        { "tvmazeId": 75129, "name": "Devil May Cry" },
+        { "tvmazeId": 84539, "name": "Dutton Ranch" },
+        { "tvmazeId": 28717, "name": "Good Omens" },
+        { "tvmazeId": 54723, "name": "From" },
+        { "tvmazeId": 43450, "name": "The Chestnut Man" }
       ]
     },
     {
