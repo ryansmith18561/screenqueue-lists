@@ -6,7 +6,6 @@
       "title": "Prestige shows of the week",
       "subtitle": "Hand-picked weekly rotation of critically-loved shows.",
       "shows": [
-        { "tvmazeId": 44933, "name": "Severance" },
         { "tvmazeId": 46562, "name": "The Last of Us" },
         { "tvmazeId": 45039, "name": "Slow Horses" },
         { "tvmazeId": 52341, "name": "Andor" },
@@ -15,7 +14,8 @@
         { "tvmazeId": 23470, "name": "Succession" },
         { "tvmazeId": 36672, "name": "Yellowjackets" },
         { "tvmazeId": 618,   "name": "Better Call Saul" },
-        { "tvmazeId": 16579, "name": "The Handmaid's Tale" }
+        { "tvmazeId": 16579, "name": "The Handmaid's Tale" },
+        { "tvmazeId": 44933, "name": "Severance" }
       ]
     },
     {
