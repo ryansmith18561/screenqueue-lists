@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "lists": [
+    {
+      "id": "prestige-week",
+      "title": "Prestige shows of the week",
+      "subtitle": "Hand-picked weekly rotation of critically-loved shows.",
+      "shows": [
+        { "tvmazeId": 44933, "name": "Severance" },
+        { "tvmazeId": 46562, "name": "The Last of Us" },
+        { "tvmazeId": 45039, "name": "Slow Horses" },
+        { "tvmazeId": 52341, "name": "Andor" },
+        { "tvmazeId": 37336, "name": "Shōgun" },
+        { "tvmazeId": 54198, "name": "The Bear" },
+        { "tvmazeId": 23470, "name": "Succession" },
+        { "tvmazeId": 36672, "name": "Yellowjackets" },
+        { "tvmazeId": 618,   "name": "Better Call Saul" },
+        { "tvmazeId": 16579, "name": "The Handmaid's Tale" }
+      ]
+    },
+    {
+      "id": "top-10",
+      "title": "Top 10 right now",
+      "subtitle": "The most-watched shows airing this week.",
+      "shows": [
+        { "tvmazeId": 2993,  "name": "Stranger Things" },
+        { "tvmazeId": 44778, "name": "House of the Dragon" },
+        { "tvmazeId": 46562, "name": "The Last of Us" },
+        { "tvmazeId": 53647, "name": "Wednesday" },
+        { "tvmazeId": 15299, "name": "The Boys" },
+        { "tvmazeId": 44458, "name": "Ted Lasso" },
+        { "tvmazeId": 41007, "name": "Loki" },
+        { "tvmazeId": 48830, "name": "Only Murders in the Building" },
+        { "tvmazeId": 55350, "name": "Abbott Elementary" },
+        { "tvmazeId": 73,    "name": "The Walking Dead" }
+      ]
+    }
+  ]
+}
