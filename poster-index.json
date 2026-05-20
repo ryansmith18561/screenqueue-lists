@@ -2,254 +2,579 @@
   "version": 1,
   "entries": [
     {
-      "id": 91311,
-      "name": "Legends",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/624/1560610.jpg"
-    },
-    {
       "id": 79932,
       "name": "Off Campus",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/624/1562439.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/619/1549703.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/619/1549704.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/624/1562152.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/624/1562439.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/625/1564296.jpg"
+      ]
     },
     {
       "id": 83053,
       "name": "Nemesis",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/625/1563340.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/618/1546149.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/625/1563340.jpg"
+      ]
     },
     {
       "id": 15299,
       "name": "The Boys",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/619/1547768.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/169/424458.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/204/511623.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/204/511624.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/204/511625.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/204/511626.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/204/511627.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/245/613133.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/245/613134.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/245/613135.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/245/613136.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/263/658000.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/263/659539.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/264/661279.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/267/668204.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/267/668205.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/399/998261.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/409/1024044.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/445/1113531.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/490/1225915.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/490/1225916.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/504/1262337.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/505/1263296.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/507/1268474.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/517/1293999.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/517/1294000.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/522/1305561.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/522/1305562.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/522/1305563.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/528/1321347.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/528/1321349.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/615/1539900.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/615/1539901.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/616/1541588.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/616/1541843.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/619/1547768.jpg"
+      ]
     },
     {
       "id": 79390,
       "name": "Widow's Bay",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/623/1559488.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/617/1543474.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/620/1552445.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/621/1554398.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/623/1559488.jpg"
+      ]
     },
     {
       "id": 84539,
       "name": "Dutton Ranch",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/625/1563140.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/618/1545377.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/623/1559608.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/625/1563140.jpg"
+      ]
     },
     {
       "id": 71529,
       "name": "Devil May Cry",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/555/1389167.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/554/1385470.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/555/1389167.jpg"
+      ]
     },
     {
       "id": 54723,
       "name": "FROM",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/621/1554646.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/394/986417.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/403/1009460.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/457/1143635.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/465/1162886.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/532/1332026.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/536/1340940.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/546/1365006.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/618/1547007.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/621/1554646.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/623/1558298.jpg"
+      ]
     },
     {
       "id": 28717,
       "name": "Good Omens",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/625/1563341.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/161/404406.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/170/425240.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/184/460782.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/186/467095.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/191/479524.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/193/483556.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/199/498112.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/334/836792.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/467/1167628.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/468/1170915.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/470/1176867.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/486/1215656.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/621/1553709.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/625/1563341.jpg"
+      ]
     },
     {
       "id": 43450,
       "name": "Kastanjemanden",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/624/1561369.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/208/521423.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/357/893147.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/361/903840.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/361/903841.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/363/908137.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/624/1561369.jpg"
+      ]
     },
     {
       "id": 54285,
       "name": "BEEF",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/621/1554643.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/455/1139176.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/455/1139179.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/619/1549456.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/620/1551311.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/621/1554643.jpg"
+      ]
     },
     {
       "id": 64087,
       "name": "Rivals",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/625/1563339.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/525/1313537.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/530/1325609.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/539/1349438.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/621/1553710.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/625/1563339.jpg"
+      ]
     },
     {
       "id": 68242,
       "name": "Lord of the Flies",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/612/1531781.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/611/1528780.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/612/1531781.jpg"
+      ]
     },
     {
       "id": 91062,
       "name": "The Dark Wizard",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/621/1554073.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/619/1549414.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/621/1554073.jpg"
+      ]
     },
     {
       "id": 28826,
       "name": "Euphoria",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/621/1552657.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/191/478453.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/196/491549.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/253/632650.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/285/713278.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/285/713279.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/287/718176.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/388/971860.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/389/974080.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/391/978682.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/400/1000582.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/498/1246049.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/601/1504779.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/619/1549266.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/621/1552657.jpg"
+      ]
     },
     {
       "id": 59241,
       "name": "Berlín",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/497/1243972.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/477/1193871.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/497/1243972.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/497/1244272.jpg"
+      ]
     },
     {
       "id": 74839,
       "name": "Half Man",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/622/1556682.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/619/1547584.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/622/1556682.jpg"
+      ]
     },
     {
       "id": 67765,
       "name": "Man on Fire",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/621/1554712.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/618/1545521.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/618/1545522.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/621/1554712.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/623/1558723.jpg"
+      ]
     },
     {
       "id": 45834,
       "name": "Citadel",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/624/1560435.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/451/1128957.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/459/1148348.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/622/1556706.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/624/1560242.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/624/1560435.jpg"
+      ]
     },
     {
       "id": 74442,
       "name": "Margo's Got Money Troubles",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/621/1554071.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/611/1528976.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/617/1544102.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/621/1554071.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/621/1554074.jpg"
+      ]
     },
     {
       "id": 73484,
       "name": "Your Friends & Neighbors",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/620/1550778.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/616/1541418.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/616/1541420.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/620/1550778.jpg"
+      ]
     },
     {
       "id": 8161,
       "name": "The Terror",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/625/1563397.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/60/150381.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/143/358677.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/148/371495.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/149/373572.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/183/457741.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/203/509944.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/203/509946.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/241/603425.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/622/1556516.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/625/1563397.jpg"
+      ]
     },
     {
       "id": 80059,
       "name": "The Other Bennet Sister",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/617/1544880.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/617/1544439.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/617/1544880.jpg"
+      ]
     },
     {
       "id": 84190,
       "name": "Star Wars: Maul - Shadow Lord",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/610/1525084.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/564/1411380.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/610/1525084.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/621/1554645.jpg"
+      ]
     },
     {
       "id": 88862,
       "name": "Rooster",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/616/1540316.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/612/1530847.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/616/1540316.jpg"
+      ]
     },
     {
       "id": 79127,
       "name": "M.I.A.",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/624/1561931.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/617/1543481.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/620/1552488.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/624/1561931.jpg"
+      ]
     },
     {
       "id": 83935,
       "name": "You're Killing Me",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/625/1564238.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/623/1558302.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/625/1564238.jpg"
+      ]
     },
     {
       "id": 76529,
       "name": "Amadeus",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/600/1500857.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/595/1488172.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/600/1500857.jpg"
+      ]
     },
     {
       "id": 84526,
       "name": "Marshals",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/616/1540004.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/599/1497563.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/615/1539890.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/615/1539989.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/615/1539990.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/616/1540004.jpg"
+      ]
     },
     {
       "id": 91660,
       "name": "Sapne Vs Everyone",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/623/1558934.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/623/1558934.jpg"
+      ]
     },
     {
       "id": 63234,
       "name": "Daredevil: Born Again",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/616/1540605.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/416/1042164.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/476/1191586.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/552/1380876.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/557/1394508.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/557/1394509.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/610/1526828.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/616/1540605.jpg"
+      ]
     },
     {
       "id": 51394,
       "name": "The White Lotus",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/557/1393876.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/332/832045.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/339/848461.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/426/1066187.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/434/1085967.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/517/1293464.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/517/1293465.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/548/1372009.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/554/1385130.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/557/1393876.jpg"
+      ]
     },
     {
       "id": 78442,
       "name": "Something Very Bad is Going to Happen",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/619/1548691.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/610/1526959.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/613/1533859.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/619/1548691.jpg"
+      ]
     },
     {
       "id": 41414,
       "name": "For All Mankind",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/616/1541416.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/200/502055.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/210/526925.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/220/551116.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/293/732962.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/417/1044025.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/480/1200130.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/480/1202304.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/481/1204065.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/609/1524535.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/616/1541416.jpg"
+      ]
     },
     {
       "id": 82915,
       "name": "Maximum Pleasure Guaranteed",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/625/1564147.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/620/1551733.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/625/1564147.jpg"
+      ]
     },
     {
       "id": 81032,
       "name": "Unchosen",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/622/1555669.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/616/1541131.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/619/1549447.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/622/1555669.jpg"
+      ]
     },
     {
       "id": 87858,
       "name": "If Wishes Could Kill",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/623/1557825.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/619/1548704.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/623/1557825.jpg"
+      ]
     },
     {
       "id": 68237,
       "name": "The Boroughs",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/625/1563509.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/620/1551933.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/624/1560220.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/625/1563509.jpg"
+      ]
     },
     {
       "id": 52480,
       "name": "Everyone Is Doing Great",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/292/730149.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/292/730149.jpg"
+      ]
     },
     {
       "id": 75637,
       "name": "Imperfect Women",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/618/1545422.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/612/1531330.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/614/1536313.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/618/1545422.jpg"
+      ]
     },
     {
       "id": 45531,
       "name": "The Testaments",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/616/1541825.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/241/603176.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/611/1528177.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/611/1529255.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/616/1541825.jpg"
+      ]
     },
     {
       "id": 54914,
       "name": "Hacks",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/621/1552621.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/311/778342.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/406/1017263.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/514/1286132.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/514/1286133.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/514/1286134.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/514/1286135.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/514/1286136.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/514/1286137.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/514/1286138.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/514/1286139.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/514/1286140.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/559/1399095.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/565/1413766.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/600/1502121.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/619/1547544.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/621/1552621.jpg"
+      ]
     },
     {
       "id": 81369,
       "name": "Perfect Crown",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/623/1559769.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/617/1543110.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/617/1544470.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/621/1552985.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/623/1559769.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/624/1560248.jpg"
+      ]
     },
     {
       "id": 16544,
       "name": "Marvel's The Punisher",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/500/1250736.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/120/301777.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/127/319073.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/130/325417.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/179/447766.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/179/448895.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/179/449076.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/179/449199.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/500/1250736.jpg"
+      ]
     },
     {
       "id": 43,
       "name": "Outlander",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/616/1541142.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/0/373.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/126/316096.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/154/387001.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/166/415045.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/230/576843.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/234/585069.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/234/586470.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/364/911620.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/391/978079.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/436/1091444.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/464/1161242.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/465/1163285.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/539/1349381.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/544/1362267.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/580/1450143.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/597/1493736.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/616/1541142.jpg"
+      ]
     },
     {
       "id": 75632,
       "name": "The Pitt",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/606/1516776.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/547/1368935.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/594/1487234.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/606/1516776.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/608/1520493.jpg"
+      ]
     },
     {
       "id": 45856,
       "name": "La Brea",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/500/1250675.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/320/800463.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/352/880456.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/352/880457.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/444/1111661.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/493/1233719.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/497/1244653.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/500/1250675.jpg"
+      ]
     },
     {
       "id": 78605,
       "name": "La casa de los espíritus",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/624/1560438.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/619/1549004.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/619/1549410.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/624/1560438.jpg"
+      ]
     },
     {
       "id": 86175,
       "name": "Pluribus",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/592/1481086.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/586/1465243.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/592/1481086.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/596/1490046.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/596/1490047.jpg"
+      ]
     },
     {
       "id": 80978,
       "name": "It's Not Like That",
-      "posterURL": "https://static.tvmaze.com/uploads/images/medium_portrait/613/1533959.jpg"
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/607/1519809.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/613/1533959.jpg"
+      ]
+    },
+    {
+      "id": 83053,
+      "name": "Nemesis",
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/618/1546149.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/625/1563340.jpg"
+      ]
     }
   ]
 }
