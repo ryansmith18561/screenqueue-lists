@@ -1,8 +1,21 @@
 # screenqueue-lists
 
-Public source of curated show lists rendered on the ScreenQueue onboarding "Popular shows" step.
+Public source of curated show lists rendered on the ScreenQueue onboarding "Popular shows" step and the Search → Discover surface.
 
 The ScreenQueue iOS app fetches `onboarding-lists.json` from this repo's raw URL on each onboarding open. Editing this file and pushing to `main` updates the lists for every user **without shipping a new build**. The app caches the most recent successful fetch so an offline relaunch still renders something.
+
+## Single source of truth: `poster-index.json`
+
+As of 2026-05, `onboarding-lists.json` is **derived** from `poster-index.json` — both surfaces show the same 50 trending shows, so the monthly refresh only edits one file.
+
+Monthly update flow:
+
+1. Edit `poster-index.json` — replace any of the 50 entries (each `{ id, name, posterURL }`). Keep exactly 50 for the on-device poster-matching path to stay healthy.
+2. Run `./derive-onboarding-lists.py` — regenerates `onboarding-lists.json` as a single `popular-this-month` section listing all 50 shows in poster-index order.
+3. Commit both files together with a message like "Refresh popular shows for 2026-06".
+4. Force-quit and relaunch the app to confirm the new lists render.
+
+`onboarding-lists.json` can still be edited by hand for one-off experiments (multiple sections, different titles), but the next derive-script run will overwrite it.
 
 ## File the app reads
 

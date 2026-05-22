@@ -2,38 +2,211 @@
   "version": 1,
   "lists": [
     {
-      "id": "prestige-week",
-      "title": "Shows of the month",
-      "subtitle": "Hand-picked weekly rotation of critically-loved shows.",
+      "id": "popular-this-month",
+      "title": "Popular this month",
+      "subtitle": "The 50 shows trending in ScreenQ right now.",
       "shows": [
-        { "tvmazeId": 91311, "name": "Legends" },
-        { "tvmazeId": 79932, "name": "Off Campus" },
-        { "tvmazeId": 79390, "name": "Widow's Bay" },
-        { "tvmazeId": 15299, "name": "The Boys" },
-        { "tvmazeId": 71529, "name": "Devil May Cry" },
-        { "tvmazeId": 84539, "name": "Dutton Ranch" },
-        { "tvmazeId": 28717, "name": "Good Omens" },
-        { "tvmazeId": 54723, "name": "From" },
-        { "tvmazeId": 43450, "name": "The Chestnut Man" }
-      ]
-    },
-    {
-      "id": "top-10",
-      "title": "Top 10 right now",
-      "subtitle": "The most-watched shows airing this week.",
-      "shows": [
-        { "tvmazeId": 2993,  "name": "Stranger Things" },
-        { "tvmazeId": 44778, "name": "House of the Dragon" },
-        { "tvmazeId": 46562, "name": "The Last of Us" },
-        { "tvmazeId": 53647, "name": "Wednesday" },
-        { "tvmazeId": 15299, "name": "The Boys" },
-        { "tvmazeId": 44458, "name": "Ted Lasso" },
-        { "tvmazeId": 41007, "name": "Loki" },
-        { "tvmazeId": 48830, "name": "Only Murders in the Building" },
-        { "tvmazeId": 55350, "name": "Abbott Elementary" },
-        { "tvmazeId": 73,    "name": "The Walking Dead" }
+        {
+          "tvmazeId": 91311,
+          "name": "Legends"
+        },
+        {
+          "tvmazeId": 79932,
+          "name": "Off Campus"
+        },
+        {
+          "tvmazeId": 83053,
+          "name": "Nemesis"
+        },
+        {
+          "tvmazeId": 15299,
+          "name": "The Boys"
+        },
+        {
+          "tvmazeId": 79390,
+          "name": "Widow's Bay"
+        },
+        {
+          "tvmazeId": 84539,
+          "name": "Dutton Ranch"
+        },
+        {
+          "tvmazeId": 71529,
+          "name": "Devil May Cry"
+        },
+        {
+          "tvmazeId": 54723,
+          "name": "FROM"
+        },
+        {
+          "tvmazeId": 28717,
+          "name": "Good Omens"
+        },
+        {
+          "tvmazeId": 43450,
+          "name": "Kastanjemanden"
+        },
+        {
+          "tvmazeId": 54285,
+          "name": "BEEF"
+        },
+        {
+          "tvmazeId": 64087,
+          "name": "Rivals"
+        },
+        {
+          "tvmazeId": 68242,
+          "name": "Lord of the Flies"
+        },
+        {
+          "tvmazeId": 91062,
+          "name": "The Dark Wizard"
+        },
+        {
+          "tvmazeId": 28826,
+          "name": "Euphoria"
+        },
+        {
+          "tvmazeId": 59241,
+          "name": "Berlín"
+        },
+        {
+          "tvmazeId": 74839,
+          "name": "Half Man"
+        },
+        {
+          "tvmazeId": 67765,
+          "name": "Man on Fire"
+        },
+        {
+          "tvmazeId": 45834,
+          "name": "Citadel"
+        },
+        {
+          "tvmazeId": 74442,
+          "name": "Margo's Got Money Troubles"
+        },
+        {
+          "tvmazeId": 73484,
+          "name": "Your Friends & Neighbors"
+        },
+        {
+          "tvmazeId": 8161,
+          "name": "The Terror"
+        },
+        {
+          "tvmazeId": 80059,
+          "name": "The Other Bennet Sister"
+        },
+        {
+          "tvmazeId": 84190,
+          "name": "Star Wars: Maul - Shadow Lord"
+        },
+        {
+          "tvmazeId": 88862,
+          "name": "Rooster"
+        },
+        {
+          "tvmazeId": 79127,
+          "name": "M.I.A."
+        },
+        {
+          "tvmazeId": 83935,
+          "name": "You're Killing Me"
+        },
+        {
+          "tvmazeId": 76529,
+          "name": "Amadeus"
+        },
+        {
+          "tvmazeId": 84526,
+          "name": "Marshals"
+        },
+        {
+          "tvmazeId": 91660,
+          "name": "Sapne Vs Everyone"
+        },
+        {
+          "tvmazeId": 63234,
+          "name": "Daredevil: Born Again"
+        },
+        {
+          "tvmazeId": 51394,
+          "name": "The White Lotus"
+        },
+        {
+          "tvmazeId": 78442,
+          "name": "Something Very Bad is Going to Happen"
+        },
+        {
+          "tvmazeId": 41414,
+          "name": "For All Mankind"
+        },
+        {
+          "tvmazeId": 82915,
+          "name": "Maximum Pleasure Guaranteed"
+        },
+        {
+          "tvmazeId": 81032,
+          "name": "Unchosen"
+        },
+        {
+          "tvmazeId": 87858,
+          "name": "If Wishes Could Kill"
+        },
+        {
+          "tvmazeId": 68237,
+          "name": "The Boroughs"
+        },
+        {
+          "tvmazeId": 52480,
+          "name": "Everyone Is Doing Great"
+        },
+        {
+          "tvmazeId": 75637,
+          "name": "Imperfect Women"
+        },
+        {
+          "tvmazeId": 45531,
+          "name": "The Testaments"
+        },
+        {
+          "tvmazeId": 54914,
+          "name": "Hacks"
+        },
+        {
+          "tvmazeId": 81369,
+          "name": "Perfect Crown"
+        },
+        {
+          "tvmazeId": 16544,
+          "name": "Marvel's The Punisher"
+        },
+        {
+          "tvmazeId": 43,
+          "name": "Outlander"
+        },
+        {
+          "tvmazeId": 75632,
+          "name": "The Pitt"
+        },
+        {
+          "tvmazeId": 45856,
+          "name": "La Brea"
+        },
+        {
+          "tvmazeId": 78605,
+          "name": "La casa de los espíritus"
+        },
+        {
+          "tvmazeId": 86175,
+          "name": "Pluribus"
+        },
+        {
+          "tvmazeId": 80978,
+          "name": "It's Not Like That"
+        }
       ]
     }
   ]
 }
-
