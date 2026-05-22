@@ -7,16 +7,20 @@
       "subtitle": "The 50 shows trending in ScreenQ right now.",
       "shows": [
         {
-          "tvmazeId": 79932,
-          "name": "Off Campus"
+          "tvmazeId": 15299,
+          "name": "The Boys"
         },
         {
           "tvmazeId": 83053,
           "name": "Nemesis"
         },
         {
-          "tvmazeId": 15299,
-          "name": "The Boys"
+          "tvmazeId": 79932,
+          "name": "Off Campus"
+        },
+        {
+          "tvmazeId": 91311,
+          "name": "Legends"
         },
         {
           "tvmazeId": 79390,
@@ -27,32 +31,44 @@
           "name": "Dutton Ranch"
         },
         {
-          "tvmazeId": 71529,
-          "name": "Devil May Cry"
-        },
-        {
           "tvmazeId": 54723,
           "name": "FROM"
-        },
-        {
-          "tvmazeId": 28717,
-          "name": "Good Omens"
         },
         {
           "tvmazeId": 43450,
           "name": "Kastanjemanden"
         },
         {
-          "tvmazeId": 54285,
-          "name": "BEEF"
-        },
-        {
           "tvmazeId": 64087,
           "name": "Rivals"
         },
         {
+          "tvmazeId": 54285,
+          "name": "BEEF"
+        },
+        {
+          "tvmazeId": 82915,
+          "name": "Maximum Pleasure Guaranteed"
+        },
+        {
+          "tvmazeId": 68237,
+          "name": "The Boroughs"
+        },
+        {
+          "tvmazeId": 71529,
+          "name": "Devil May Cry"
+        },
+        {
+          "tvmazeId": 59241,
+          "name": "Berlín"
+        },
+        {
           "tvmazeId": 68242,
           "name": "Lord of the Flies"
+        },
+        {
+          "tvmazeId": 28717,
+          "name": "Good Omens"
         },
         {
           "tvmazeId": 91062,
@@ -63,28 +79,32 @@
           "name": "Euphoria"
         },
         {
-          "tvmazeId": 59241,
-          "name": "Berlín"
+          "tvmazeId": 83935,
+          "name": "You're Killing Me"
         },
         {
           "tvmazeId": 74839,
           "name": "Half Man"
         },
         {
+          "tvmazeId": 74442,
+          "name": "Margo's Got Money Troubles"
+        },
+        {
           "tvmazeId": 67765,
           "name": "Man on Fire"
+        },
+        {
+          "tvmazeId": 73484,
+          "name": "Your Friends & Neighbors"
         },
         {
           "tvmazeId": 45834,
           "name": "Citadel"
         },
         {
-          "tvmazeId": 74442,
-          "name": "Margo's Got Money Troubles"
-        },
-        {
-          "tvmazeId": 73484,
-          "name": "Your Friends & Neighbors"
+          "tvmazeId": 84190,
+          "name": "Star Wars: Maul - Shadow Lord"
         },
         {
           "tvmazeId": 8161,
@@ -95,10 +115,6 @@
           "name": "The Other Bennet Sister"
         },
         {
-          "tvmazeId": 84190,
-          "name": "Star Wars: Maul - Shadow Lord"
-        },
-        {
           "tvmazeId": 88862,
           "name": "Rooster"
         },
@@ -107,104 +123,88 @@
           "name": "M.I.A."
         },
         {
-          "tvmazeId": 83935,
-          "name": "You're Killing Me"
+          "tvmazeId": 84526,
+          "name": "Marshals"
         },
         {
           "tvmazeId": 76529,
           "name": "Amadeus"
         },
         {
-          "tvmazeId": 84526,
-          "name": "Marshals"
-        },
-        {
-          "tvmazeId": 91660,
-          "name": "Sapne Vs Everyone"
-        },
-        {
-          "tvmazeId": 63234,
-          "name": "Daredevil: Born Again"
-        },
-        {
           "tvmazeId": 51394,
           "name": "The White Lotus"
-        },
-        {
-          "tvmazeId": 78442,
-          "name": "Something Very Bad is Going to Happen"
         },
         {
           "tvmazeId": 41414,
           "name": "For All Mankind"
         },
         {
-          "tvmazeId": 82915,
-          "name": "Maximum Pleasure Guaranteed"
+          "tvmazeId": 91660,
+          "name": "Sapne Vs Everyone"
         },
         {
-          "tvmazeId": 81032,
-          "name": "Unchosen"
+          "tvmazeId": 78442,
+          "name": "Something Very Bad is Going to Happen"
+        },
+        {
+          "tvmazeId": 63234,
+          "name": "Daredevil: Born Again"
         },
         {
           "tvmazeId": 87858,
           "name": "If Wishes Could Kill"
         },
         {
-          "tvmazeId": 68237,
-          "name": "The Boroughs"
-        },
-        {
-          "tvmazeId": 52480,
-          "name": "Everyone Is Doing Great"
-        },
-        {
-          "tvmazeId": 75637,
-          "name": "Imperfect Women"
+          "tvmazeId": 86006,
+          "name": "The Yogurt Shop Murders"
         },
         {
           "tvmazeId": 45531,
           "name": "The Testaments"
         },
         {
+          "tvmazeId": 80978,
+          "name": "It's Not Like That"
+        },
+        {
+          "tvmazeId": 81032,
+          "name": "Unchosen"
+        },
+        {
+          "tvmazeId": 91715,
+          "name": "Kylie"
+        },
+        {
           "tvmazeId": 54914,
           "name": "Hacks"
         },
         {
-          "tvmazeId": 81369,
-          "name": "Perfect Crown"
+          "tvmazeId": 75637,
+          "name": "Imperfect Women"
         },
         {
-          "tvmazeId": 16544,
-          "name": "Marvel's The Punisher"
-        },
-        {
-          "tvmazeId": 43,
-          "name": "Outlander"
-        },
-        {
-          "tvmazeId": 75632,
-          "name": "The Pitt"
-        },
-        {
-          "tvmazeId": 45856,
-          "name": "La Brea"
-        },
-        {
-          "tvmazeId": 78605,
-          "name": "La casa de los espíritus"
+          "tvmazeId": 2993,
+          "name": "Stranger Things"
         },
         {
           "tvmazeId": 86175,
           "name": "Pluribus"
         },
         {
-          "tvmazeId": 80978,
-          "name": "It's Not Like That"
+          "tvmazeId": 84424,
+          "name": "Mating Season"
         },
         {
-          "tvmazeId": 83053,
-          "name": "Nemesis"
+          "tvmazeId": 43,
+          "name": "Outlander"
+        },
+        {
+          "tvmazeId": 52480,
+          "name": "Everyone Is Doing Great"
+        },
+        {
+          "tvmazeId": 75632,
+          "name": "The Pitt"
         }
       ]
     }
