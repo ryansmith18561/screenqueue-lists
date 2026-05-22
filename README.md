@@ -10,8 +10,8 @@ As of 2026-05, `onboarding-lists.json` is **derived** from `poster-index.json` �
 
 Monthly update flow:
 
-1. Edit `poster-index.json` — replace any of the 50 entries (each `{ id, name, posterURL }`). Keep exactly 50 for the on-device poster-matching path to stay healthy.
-2. Run `./derive-onboarding-lists.py` — regenerates `onboarding-lists.json` as a single `popular-this-month` section listing all 50 shows in poster-index order.
+1. Edit `poster-index.json` — add / remove / reorder entries (each `{ id, name, posterURL }`). The on-device poster-matching path uses the full set; size it however you like.
+2. Run `./derive-onboarding-lists.py` — regenerates `onboarding-lists.json` as a single `popular-this-month` section listing the **top 50** shows in poster-index order (slice is controlled by `TOP_N` in the script).
 3. Commit both files together with a message like "Refresh popular shows for 2026-06".
 4. Force-quit and relaunch the app to confirm the new lists render.
 

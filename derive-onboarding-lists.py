@@ -18,6 +18,7 @@ ONBOARDING_LISTS = ROOT / "onboarding-lists.json"
 LIST_ID = "popular-this-month"
 LIST_TITLE = "Popular this month"
 LIST_SUBTITLE = "The 50 shows trending in ScreenQ right now."
+TOP_N = 50
 
 
 def main() -> None:
@@ -33,7 +34,7 @@ def main() -> None:
                 "subtitle": LIST_SUBTITLE,
                 "shows": [
                     {"tvmazeId": entry["id"], "name": entry["name"]}
-                    for entry in src["entries"]
+                    for entry in src["entries"][:TOP_N]
                 ],
             }
         ],

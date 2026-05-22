@@ -7,10 +7,6 @@
       "subtitle": "The 50 shows trending in ScreenQ right now.",
       "shows": [
         {
-          "tvmazeId": 91311,
-          "name": "Legends"
-        },
-        {
           "tvmazeId": 79932,
           "name": "Off Campus"
         },
@@ -205,6 +201,10 @@
         {
           "tvmazeId": 80978,
           "name": "It's Not Like That"
+        },
+        {
+          "tvmazeId": 83053,
+          "name": "Nemesis"
         }
       ]
     }
