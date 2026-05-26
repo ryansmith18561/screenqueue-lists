@@ -11,32 +11,32 @@
           "name": "The Boys"
         },
         {
-          "tvmazeId": 83053,
-          "name": "Nemesis"
+          "tvmazeId": 68237,
+          "name": "The Boroughs"
         },
         {
           "tvmazeId": 79932,
           "name": "Off Campus"
         },
         {
+          "tvmazeId": 82915,
+          "name": "Maximum Pleasure Guaranteed"
+        },
+        {
+          "tvmazeId": 83053,
+          "name": "Nemesis"
+        },
+        {
           "tvmazeId": 91311,
           "name": "Legends"
         },
         {
+          "tvmazeId": 77003,
+          "name": "Spider-Noir"
+        },
+        {
           "tvmazeId": 79390,
           "name": "Widow's Bay"
-        },
-        {
-          "tvmazeId": 84539,
-          "name": "Dutton Ranch"
-        },
-        {
-          "tvmazeId": 54723,
-          "name": "FROM"
-        },
-        {
-          "tvmazeId": 43450,
-          "name": "Kastanjemanden"
         },
         {
           "tvmazeId": 64087,
@@ -47,32 +47,12 @@
           "name": "BEEF"
         },
         {
-          "tvmazeId": 82915,
-          "name": "Maximum Pleasure Guaranteed"
+          "tvmazeId": 84539,
+          "name": "Dutton Ranch"
         },
         {
-          "tvmazeId": 68237,
-          "name": "The Boroughs"
-        },
-        {
-          "tvmazeId": 71529,
-          "name": "Devil May Cry"
-        },
-        {
-          "tvmazeId": 59241,
-          "name": "Berlín"
-        },
-        {
-          "tvmazeId": 68242,
-          "name": "Lord of the Flies"
-        },
-        {
-          "tvmazeId": 28717,
-          "name": "Good Omens"
-        },
-        {
-          "tvmazeId": 91062,
-          "name": "The Dark Wizard"
+          "tvmazeId": 54723,
+          "name": "FROM"
         },
         {
           "tvmazeId": 28826,
@@ -83,20 +63,68 @@
           "name": "You're Killing Me"
         },
         {
-          "tvmazeId": 74839,
-          "name": "Half Man"
+          "tvmazeId": 43450,
+          "name": "Kastanjemanden"
         },
         {
           "tvmazeId": 74442,
           "name": "Margo's Got Money Troubles"
         },
         {
-          "tvmazeId": 67765,
-          "name": "Man on Fire"
+          "tvmazeId": 59241,
+          "name": "Berlín"
+        },
+        {
+          "tvmazeId": 216,
+          "name": "Rick and Morty"
+        },
+        {
+          "tvmazeId": 71529,
+          "name": "Devil May Cry"
+        },
+        {
+          "tvmazeId": 74839,
+          "name": "Half Man"
+        },
+        {
+          "tvmazeId": 86006,
+          "name": "The Yogurt Shop Murders"
         },
         {
           "tvmazeId": 73484,
           "name": "Your Friends & Neighbors"
+        },
+        {
+          "tvmazeId": 91715,
+          "name": "Kylie"
+        },
+        {
+          "tvmazeId": 28717,
+          "name": "Good Omens"
+        },
+        {
+          "tvmazeId": 67765,
+          "name": "Man on Fire"
+        },
+        {
+          "tvmazeId": 68242,
+          "name": "Lord of the Flies"
+        },
+        {
+          "tvmazeId": 8161,
+          "name": "The Terror"
+        },
+        {
+          "tvmazeId": 91062,
+          "name": "The Dark Wizard"
+        },
+        {
+          "tvmazeId": 84424,
+          "name": "Mating Season"
+        },
+        {
+          "tvmazeId": 78442,
+          "name": "Something Very Bad is Going to Happen"
         },
         {
           "tvmazeId": 45834,
@@ -107,28 +135,8 @@
           "name": "Star Wars: Maul - Shadow Lord"
         },
         {
-          "tvmazeId": 8161,
-          "name": "The Terror"
-        },
-        {
-          "tvmazeId": 80059,
-          "name": "The Other Bennet Sister"
-        },
-        {
           "tvmazeId": 88862,
           "name": "Rooster"
-        },
-        {
-          "tvmazeId": 79127,
-          "name": "M.I.A."
-        },
-        {
-          "tvmazeId": 84526,
-          "name": "Marshals"
-        },
-        {
-          "tvmazeId": 76529,
-          "name": "Amadeus"
         },
         {
           "tvmazeId": 51394,
@@ -139,72 +147,64 @@
           "name": "For All Mankind"
         },
         {
-          "tvmazeId": 91660,
-          "name": "Sapne Vs Everyone"
+          "tvmazeId": 80059,
+          "name": "The Other Bennet Sister"
         },
         {
-          "tvmazeId": 78442,
-          "name": "Something Very Bad is Going to Happen"
+          "tvmazeId": 84526,
+          "name": "Marshals"
         },
         {
-          "tvmazeId": 63234,
-          "name": "Daredevil: Born Again"
-        },
-        {
-          "tvmazeId": 87858,
-          "name": "If Wishes Could Kill"
-        },
-        {
-          "tvmazeId": 86006,
-          "name": "The Yogurt Shop Murders"
-        },
-        {
-          "tvmazeId": 45531,
-          "name": "The Testaments"
+          "tvmazeId": 38963,
+          "name": "The Mandalorian"
         },
         {
           "tvmazeId": 80978,
           "name": "It's Not Like That"
         },
         {
-          "tvmazeId": 81032,
-          "name": "Unchosen"
+          "tvmazeId": 91660,
+          "name": "Sapne Vs Everyone"
         },
         {
-          "tvmazeId": 91715,
-          "name": "Kylie"
+          "tvmazeId": 76529,
+          "name": "Amadeus"
+        },
+        {
+          "tvmazeId": 91990,
+          "name": "Desi Bling"
+        },
+        {
+          "tvmazeId": 45531,
+          "name": "The Testaments"
+        },
+        {
+          "tvmazeId": 63234,
+          "name": "Daredevil: Born Again"
         },
         {
           "tvmazeId": 54914,
           "name": "Hacks"
         },
         {
-          "tvmazeId": 75637,
-          "name": "Imperfect Women"
+          "tvmazeId": 86175,
+          "name": "Pluribus"
         },
         {
           "tvmazeId": 2993,
           "name": "Stranger Things"
         },
         {
-          "tvmazeId": 86175,
-          "name": "Pluribus"
+          "tvmazeId": 75637,
+          "name": "Imperfect Women"
         },
         {
-          "tvmazeId": 84424,
-          "name": "Mating Season"
+          "tvmazeId": 87858,
+          "name": "If Wishes Could Kill"
         },
         {
-          "tvmazeId": 43,
-          "name": "Outlander"
-        },
-        {
-          "tvmazeId": 52480,
-          "name": "Everyone Is Doing Great"
-        },
-        {
-          "tvmazeId": 75632,
-          "name": "The Pitt"
+          "tvmazeId": 60339,
+          "name": "Fire Country"
         }
       ]
     }
