@@ -3241,6 +3241,20 @@
       ]
     },
     {
+      "id": 1370,
+      "name": "Marvel's Jessica Jones",
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/17/43413.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/25/63993.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/26/67293.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/28/71730.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/31/77884.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/145/363340.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/200/502171.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/200/502332.jpg"
+      ]
+    },
+    {
       "id": 77427,
       "name": "Young Sherlock",
       "posterURLs": [
@@ -3761,6 +3775,14 @@
       "posterURLs": [
         "https://static.tvmaze.com/uploads/images/medium_portrait/499/1247735.jpg",
         "https://static.tvmaze.com/uploads/images/medium_portrait/499/1247737.jpg"
+      ]
+    },
+    {
+      "id": 14459,
+      "name": "Re:Zero kara Hajimeru Isekai Seikatsu",
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/49/122624.jpg",
+        "https://static.tvmaze.com/uploads/images/medium_portrait/67/169812.jpg"
       ]
     },
     {
@@ -4324,6 +4346,13 @@
         "https://static.tvmaze.com/uploads/images/medium_portrait/604/1510243.jpg",
         "https://static.tvmaze.com/uploads/images/medium_portrait/608/1520588.jpg",
         "https://static.tvmaze.com/uploads/images/medium_portrait/608/1520589.jpg"
+      ]
+    },
+    {
+      "id": 81371,
+      "name": "An t-Eilean",
+      "posterURLs": [
+        "https://static.tvmaze.com/uploads/images/medium_portrait/552/1380578.jpg"
       ]
     },
     {
