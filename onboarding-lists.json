@@ -19,52 +19,24 @@
           "name": "Off Campus"
         },
         {
-          "tvmazeId": 82915,
-          "name": "Maximum Pleasure Guaranteed"
-        },
-        {
-          "tvmazeId": 15299,
-          "name": "The Boys"
-        },
-        {
-          "tvmazeId": 91311,
-          "name": "Legends"
-        },
-        {
-          "tvmazeId": 79390,
-          "name": "Widow's Bay"
-        },
-        {
-          "tvmazeId": 83053,
-          "name": "Nemesis"
-        },
-        {
           "tvmazeId": 28826,
           "name": "Euphoria"
-        },
-        {
-          "tvmazeId": 64087,
-          "name": "Rivals"
-        },
-        {
-          "tvmazeId": 54285,
-          "name": "BEEF"
         },
         {
           "tvmazeId": 63949,
           "name": "A Good Girl's Guide to Murder"
         },
         {
-          "tvmazeId": 54723,
-          "name": "FROM"
+          "tvmazeId": 79390,
+          "name": "Widow's Bay"
         },
         {
-          "tvmazeId": 84539,
-          "name": "Dutton Ranch"
+          "tvmazeId": 82915,
+          "name": "Maximum Pleasure Guaranteed"
         },
         {
-          "tvmazeId": 216,
-          "name": "Rick and Morty"
+          "tvmazeId": 91311,
+          "name": "Legends"
         },
         {
           "tvmazeId": 73889,
@@ -75,16 +47,84 @@
           "name": "Star City"
         },
         {
-          "tvmazeId": 83935,
-          "name": "You're Killing Me"
+          "tvmazeId": 54723,
+          "name": "FROM"
+        },
+        {
+          "tvmazeId": 15299,
+          "name": "The Boys"
+        },
+        {
+          "tvmazeId": 54285,
+          "name": "BEEF"
+        },
+        {
+          "tvmazeId": 83053,
+          "name": "Nemesis"
+        },
+        {
+          "tvmazeId": 68689,
+          "name": "Deli Boys"
+        },
+        {
+          "tvmazeId": 80946,
+          "name": "Cape Fear"
+        },
+        {
+          "tvmazeId": 84539,
+          "name": "Dutton Ranch"
+        },
+        {
+          "tvmazeId": 74839,
+          "name": "Half Man"
+        },
+        {
+          "tvmazeId": 64087,
+          "name": "Rivals"
+        },
+        {
+          "tvmazeId": 216,
+          "name": "Rick and Morty"
         },
         {
           "tvmazeId": 73484,
           "name": "Your Friends & Neighbors"
         },
         {
-          "tvmazeId": 74839,
-          "name": "Half Man"
+          "tvmazeId": 92024,
+          "name": "Bring Me the Beauties: A Model Cult"
+        },
+        {
+          "tvmazeId": 83015,
+          "name": "Not Suitable for Work"
+        },
+        {
+          "tvmazeId": 55352,
+          "name": "Clarkson's Farm"
+        },
+        {
+          "tvmazeId": 44885,
+          "name": "The Legend of Vox Machina"
+        },
+        {
+          "tvmazeId": 41414,
+          "name": "For All Mankind"
+        },
+        {
+          "tvmazeId": 51394,
+          "name": "The White Lotus"
+        },
+        {
+          "tvmazeId": 92299,
+          "name": "Michael Jackson: The Verdict"
+        },
+        {
+          "tvmazeId": 67765,
+          "name": "Man on Fire"
+        },
+        {
+          "tvmazeId": 43450,
+          "name": "Kastanjemanden"
         },
         {
           "tvmazeId": 74442,
@@ -95,116 +135,76 @@
           "name": "The Yogurt Shop Murders"
         },
         {
+          "tvmazeId": 83618,
+          "name": "Bad Thoughts"
+        },
+        {
           "tvmazeId": 59241,
           "name": "Berlín"
-        },
-        {
-          "tvmazeId": 67765,
-          "name": "Man on Fire"
-        },
-        {
-          "tvmazeId": 71529,
-          "name": "Devil May Cry"
-        },
-        {
-          "tvmazeId": 43450,
-          "name": "Kastanjemanden"
-        },
-        {
-          "tvmazeId": 78442,
-          "name": "Something Very Bad is Going to Happen"
         },
         {
           "tvmazeId": 28717,
           "name": "Good Omens"
         },
         {
-          "tvmazeId": 83618,
-          "name": "Bad Thoughts"
-        },
-        {
-          "tvmazeId": 51394,
-          "name": "The White Lotus"
-        },
-        {
-          "tvmazeId": 91062,
-          "name": "The Dark Wizard"
+          "tvmazeId": 54914,
+          "name": "Hacks"
         },
         {
           "tvmazeId": 45834,
           "name": "Citadel"
         },
         {
-          "tvmazeId": 8161,
-          "name": "The Terror"
+          "tvmazeId": 92196,
+          "name": "Anne Rice's The Vampire Lestat"
         },
         {
-          "tvmazeId": 41414,
-          "name": "For All Mankind"
-        },
-        {
-          "tvmazeId": 68689,
-          "name": "Deli Boys"
-        },
-        {
-          "tvmazeId": 84424,
-          "name": "Mating Season"
-        },
-        {
-          "tvmazeId": 68242,
-          "name": "Lord of the Flies"
-        },
-        {
-          "tvmazeId": 88862,
-          "name": "Rooster"
+          "tvmazeId": 78442,
+          "name": "Something Very Bad is Going to Happen"
         },
         {
           "tvmazeId": 45531,
           "name": "The Testaments"
         },
         {
+          "tvmazeId": 71529,
+          "name": "Devil May Cry"
+        },
+        {
+          "tvmazeId": 91062,
+          "name": "The Dark Wizard"
+        },
+        {
+          "tvmazeId": 8161,
+          "name": "The Terror"
+        },
+        {
+          "tvmazeId": 68242,
+          "name": "Lord of the Flies"
+        },
+        {
           "tvmazeId": 80978,
           "name": "It's Not Like That"
+        },
+        {
+          "tvmazeId": 88862,
+          "name": "Rooster"
+        },
+        {
+          "tvmazeId": 91633,
+          "name": "The Witness"
         },
         {
           "tvmazeId": 91080,
           "name": "World War II with Tom Hanks"
         },
         {
-          "tvmazeId": 91715,
-          "name": "Kylie"
-        },
-        {
-          "tvmazeId": 54914,
-          "name": "Hacks"
-        },
-        {
-          "tvmazeId": 84526,
-          "name": "Marshals"
-        },
-        {
-          "tvmazeId": 84190,
-          "name": "Star Wars: Maul - Shadow Lord"
-        },
-        {
-          "tvmazeId": 91660,
-          "name": "Sapne Vs Everyone"
-        },
-        {
-          "tvmazeId": 38963,
-          "name": "The Mandalorian"
-        },
-        {
           "tvmazeId": 80059,
           "name": "The Other Bennet Sister"
         },
         {
-          "tvmazeId": 91990,
-          "name": "Desi Bling"
-        },
-        {
-          "tvmazeId": 78735,
-          "name": "Summerwater"
+          "tvmazeId": 86175,
+          "name": "Pluribus"
         }
       ]
     }
