@@ -17,8 +17,13 @@ ONBOARDING_LISTS = ROOT / "onboarding-lists.json"
 
 LIST_ID = "popular-this-month"
 LIST_TITLE = "Popular this month"
-LIST_SUBTITLE = "The 50 shows trending in ScreenQ right now."
-TOP_N = 50
+# Subtitle deliberately omits the show count so future TOP_N tweaks don't
+# require an in-app copy change. The subtitle only renders when more than
+# one list is in the payload (Search → Discover and Onboarding's lists
+# step both hide it when `lists.count == 1`); kept here as a defensive
+# label for any future multi-list refresh.
+LIST_SUBTITLE = "The shows trending in ScreenQ right now."
+TOP_N = 99
 
 
 def main() -> None:

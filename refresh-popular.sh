@@ -12,7 +12,7 @@
 #   4. Copy TopShowsProgram/output/top_shows.json onto
 #      screenqueue-lists/poster-index.json — the iOS poster-matching path
 #      reads this file directly.
-#   5. Run derive-onboarding-lists.py to mirror the top 50 into
+#   5. Run derive-onboarding-lists.py to mirror the top 99 into
 #      onboarding-lists.json as a single "popular-this-month" section.
 #   6. Show the diff, prompt for a commit message, prompt before pushing.
 #
@@ -101,7 +101,7 @@ cp "$TOP_SHOWS_OUTPUT" "$POSTER_INDEX"
 echo "         $(python3 -c "import json; print(len(json.load(open('$POSTER_INDEX'))['entries']))") entries written."
 
 echo
-echo "==> [5/6] Regenerating onboarding-lists.json (top 50)..."
+echo "==> [5/6] Regenerating onboarding-lists.json (top 99)..."
 cd "$LISTS_DIR"
 ./derive-onboarding-lists.py
 

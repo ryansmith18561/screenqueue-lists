@@ -4,7 +4,7 @@
     {
       "id": "popular-this-month",
       "title": "Popular this month",
-      "subtitle": "The 50 shows trending in ScreenQ right now.",
+      "subtitle": "The shows trending in ScreenQ right now.",
       "shows": [
         {
           "tvmazeId": 77003,
@@ -205,6 +205,202 @@
         {
           "tvmazeId": 86175,
           "name": "Pluribus"
+        },
+        {
+          "tvmazeId": 84526,
+          "name": "Marshals"
+        },
+        {
+          "tvmazeId": 91895,
+          "name": "Calabasas Confidential"
+        },
+        {
+          "tvmazeId": 91660,
+          "name": "Sapne Vs Everyone"
+        },
+        {
+          "tvmazeId": 62463,
+          "name": "Sugar"
+        },
+        {
+          "tvmazeId": 84424,
+          "name": "Mating Season"
+        },
+        {
+          "tvmazeId": 66544,
+          "name": "Lawmen: Bass Reeves"
+        },
+        {
+          "tvmazeId": 84190,
+          "name": "Star Wars: Maul - Shadow Lord"
+        },
+        {
+          "tvmazeId": 63234,
+          "name": "Daredevil: Born Again"
+        },
+        {
+          "tvmazeId": 75632,
+          "name": "The Pitt"
+        },
+        {
+          "tvmazeId": 75637,
+          "name": "Imperfect Women"
+        },
+        {
+          "tvmazeId": 87858,
+          "name": "If Wishes Could Kill"
+        },
+        {
+          "tvmazeId": 2993,
+          "name": "Stranger Things"
+        },
+        {
+          "tvmazeId": 38963,
+          "name": "The Mandalorian"
+        },
+        {
+          "tvmazeId": 73127,
+          "name": "The Madison"
+        },
+        {
+          "tvmazeId": 91657,
+          "name": "Rafa"
+        },
+        {
+          "tvmazeId": 83935,
+          "name": "You're Killing Me"
+        },
+        {
+          "tvmazeId": 45975,
+          "name": "The Cleaning Lady"
+        },
+        {
+          "tvmazeId": 79127,
+          "name": "M.I.A."
+        },
+        {
+          "tvmazeId": 45856,
+          "name": "La Brea"
+        },
+        {
+          "tvmazeId": 76004,
+          "name": "How to Get to Heaven From Belfast"
+        },
+        {
+          "tvmazeId": 63268,
+          "name": "DTF St. Louis"
+        },
+        {
+          "tvmazeId": 46065,
+          "name": "One Piece"
+        },
+        {
+          "tvmazeId": 80609,
+          "name": "The WONDERfools"
+        },
+        {
+          "tvmazeId": 82,
+          "name": "Game of Thrones"
+        },
+        {
+          "tvmazeId": 2285,
+          "name": "The Night Manager"
+        },
+        {
+          "tvmazeId": 76529,
+          "name": "Amadeus"
+        },
+        {
+          "tvmazeId": 60408,
+          "name": "Achtsam Morden"
+        },
+        {
+          "tvmazeId": 5,
+          "name": "True Detective"
+        },
+        {
+          "tvmazeId": 75030,
+          "name": "Paradise"
+        },
+        {
+          "tvmazeId": 91990,
+          "name": "Desi Bling"
+        },
+        {
+          "tvmazeId": 85269,
+          "name": "Heated Rivalry"
+        },
+        {
+          "tvmazeId": 49041,
+          "name": "Fallout"
+        },
+        {
+          "tvmazeId": 91063,
+          "name": "Should I Marry a Murderer?"
+        },
+        {
+          "tvmazeId": 81032,
+          "name": "Unchosen"
+        },
+        {
+          "tvmazeId": 26020,
+          "name": "Young Sheldon"
+        },
+        {
+          "tvmazeId": 43031,
+          "name": "Reacher"
+        },
+        {
+          "tvmazeId": 81369,
+          "name": "Perfect Crown"
+        },
+        {
+          "tvmazeId": 78735,
+          "name": "Summerwater"
+        },
+        {
+          "tvmazeId": 67268,
+          "name": "Sullivan's Crossing"
+        },
+        {
+          "tvmazeId": 5079,
+          "name": "Tom Clancy's Jack Ryan"
+        },
+        {
+          "tvmazeId": 8161,
+          "name": "The Terror"
+        },
+        {
+          "tvmazeId": 44778,
+          "name": "House of the Dragon"
+        },
+        {
+          "tvmazeId": 37196,
+          "name": "Invincible"
+        },
+        {
+          "tvmazeId": 28276,
+          "name": "The Witcher"
+        },
+        {
+          "tvmazeId": 77465,
+          "name": "Jo Nesbøs Harry Hole"
+        },
+        {
+          "tvmazeId": 90511,
+          "name": "Unconditional"
+        },
+        {
+          "tvmazeId": 39868,
+          "name": "Mirzapur"
+        },
+        {
+          "tvmazeId": 56325,
+          "name": "Dark Winds"
+        },
+        {
+          "tvmazeId": 89708,
+          "name": "The Audacity"
         }
       ]
     }
