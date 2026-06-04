@@ -22,7 +22,7 @@ set -euo pipefail
 
 LISTS_DIR="$HOME/Documents/screenqueue-lists"
 TOP_SHOWS_DIR="$HOME/Documents/TopShowsProgram"
-CACHE_DIR="$TOP_SHOWS_DIR/Cache"
+CACHE_DIR="$TOP_SHOWS_DIR/cache"
 TOP_SHOWS_OUTPUT="$TOP_SHOWS_DIR/output/top_shows.json"
 POSTER_INDEX="$LISTS_DIR/poster-index.json"
 
