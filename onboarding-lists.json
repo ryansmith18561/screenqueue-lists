@@ -7,8 +7,20 @@
       "subtitle": "The shows trending in ScreenQ right now.",
       "shows": [
         {
+          "tvmazeId": 92196,
+          "name": "Anne Rice's The Vampire Lestat"
+        },
+        {
           "tvmazeId": 80946,
           "name": "Cape Fear"
+        },
+        {
+          "tvmazeId": 79390,
+          "name": "Widow's Bay"
+        },
+        {
+          "tvmazeId": 91633,
+          "name": "The Witness"
         },
         {
           "tvmazeId": 79932,
@@ -19,388 +31,376 @@
           "name": "The Boroughs"
         },
         {
-          "tvmazeId": 77003,
-          "name": "Spider-Noir"
-        },
-        {
-          "tvmazeId": 79390,
-          "name": "Widow's Bay"
-        },
-        {
-          "tvmazeId": 92196,
-          "name": "Anne Rice's The Vampire Lestat"
-        },
-        {
-          "tvmazeId": 28826,
-          "name": "Euphoria"
-        },
-        {
-          "tvmazeId": 91633,
-          "name": "The Witness"
-        },
-        {
-          "tvmazeId": 76191,
-          "name": "Star City"
-        },
-        {
-          "tvmazeId": 63949,
-          "name": "A Good Girl's Guide to Murder"
+          "tvmazeId": 54723,
+          "name": "FROM"
         },
         {
           "tvmazeId": 82915,
           "name": "Maximum Pleasure Guaranteed"
         },
         {
-          "tvmazeId": 92299,
-          "name": "Michael Jackson: The Verdict"
-        },
-        {
-          "tvmazeId": 91311,
-          "name": "Legends"
-        },
-        {
-          "tvmazeId": 54723,
-          "name": "FROM"
-        },
-        {
-          "tvmazeId": 44885,
-          "name": "The Legend of Vox Machina"
-        },
-        {
-          "tvmazeId": 55352,
-          "name": "Clarkson's Farm"
-        },
-        {
-          "tvmazeId": 73889,
-          "name": "The Four Seasons"
-        },
-        {
-          "tvmazeId": 83015,
-          "name": "Not Suitable for Work"
-        },
-        {
-          "tvmazeId": 54285,
-          "name": "BEEF"
-        },
-        {
-          "tvmazeId": 92024,
-          "name": "Bring Me the Beauties: A Model Cult"
-        },
-        {
-          "tvmazeId": 15299,
-          "name": "The Boys"
-        },
-        {
-          "tvmazeId": 83053,
-          "name": "Nemesis"
-        },
-        {
-          "tvmazeId": 73484,
-          "name": "Your Friends & Neighbors"
-        },
-        {
-          "tvmazeId": 83378,
-          "name": "Teach You a Lesson"
-        },
-        {
-          "tvmazeId": 84539,
-          "name": "Dutton Ranch"
-        },
-        {
-          "tvmazeId": 68689,
-          "name": "Deli Boys"
-        },
-        {
-          "tvmazeId": 216,
-          "name": "Rick and Morty"
-        },
-        {
-          "tvmazeId": 74839,
-          "name": "Half Man"
-        },
-        {
-          "tvmazeId": 51394,
-          "name": "The White Lotus"
-        },
-        {
-          "tvmazeId": 67313,
-          "name": "The Listeners"
-        },
-        {
-          "tvmazeId": 78622,
-          "name": "Among Us"
-        },
-        {
-          "tvmazeId": 59241,
-          "name": "Berlín"
-        },
-        {
-          "tvmazeId": 64087,
-          "name": "Rivals"
-        },
-        {
-          "tvmazeId": 41414,
-          "name": "For All Mankind"
-        },
-        {
-          "tvmazeId": 43450,
-          "name": "Kastanjemanden"
-        },
-        {
-          "tvmazeId": 92353,
-          "name": "Fix the Error!"
-        },
-        {
-          "tvmazeId": 78442,
-          "name": "Something Very Bad is Going to Happen"
-        },
-        {
-          "tvmazeId": 67765,
-          "name": "Man on Fire"
-        },
-        {
-          "tvmazeId": 86435,
-          "name": "Alice and Steve"
-        },
-        {
-          "tvmazeId": 85269,
-          "name": "Heated Rivalry"
-        },
-        {
-          "tvmazeId": 80978,
-          "name": "It's Not Like That"
-        },
-        {
-          "tvmazeId": 74442,
-          "name": "Margo's Got Money Troubles"
-        },
-        {
-          "tvmazeId": 54914,
-          "name": "Hacks"
-        },
-        {
-          "tvmazeId": 71529,
-          "name": "Devil May Cry"
-        },
-        {
-          "tvmazeId": 56150,
-          "name": "Anne Rice's Interview with the Vampire"
-        },
-        {
-          "tvmazeId": 66544,
-          "name": "Lawmen: Bass Reeves"
-        },
-        {
-          "tvmazeId": 88862,
-          "name": "Rooster"
-        },
-        {
-          "tvmazeId": 45834,
-          "name": "Citadel"
-        },
-        {
-          "tvmazeId": 86175,
-          "name": "Pluribus"
-        },
-        {
-          "tvmazeId": 68242,
-          "name": "Lord of the Flies"
-        },
-        {
-          "tvmazeId": 45531,
-          "name": "The Testaments"
-        },
-        {
-          "tvmazeId": 28717,
-          "name": "Good Omens"
-        },
-        {
-          "tvmazeId": 72128,
-          "name": "The Amazing Digital Circus"
-        },
-        {
-          "tvmazeId": 80059,
-          "name": "The Other Bennet Sister"
-        },
-        {
-          "tvmazeId": 73127,
-          "name": "The Madison"
-        },
-        {
-          "tvmazeId": 84526,
-          "name": "Marshals"
-        },
-        {
-          "tvmazeId": 75632,
-          "name": "The Pitt"
-        },
-        {
-          "tvmazeId": 42289,
-          "name": "Love Island"
-        },
-        {
-          "tvmazeId": 91657,
-          "name": "Rafa"
-        },
-        {
-          "tvmazeId": 91660,
-          "name": "Sapne Vs Everyone"
-        },
-        {
-          "tvmazeId": 46111,
-          "name": "Monsterland"
-        },
-        {
-          "tvmazeId": 40366,
-          "name": "Leaving Neverland"
-        },
-        {
-          "tvmazeId": 84190,
-          "name": "Star Wars: Maul - Shadow Lord"
-        },
-        {
-          "tvmazeId": 83935,
-          "name": "You're Killing Me"
-        },
-        {
-          "tvmazeId": 75637,
-          "name": "Imperfect Women"
-        },
-        {
-          "tvmazeId": 2993,
-          "name": "Stranger Things"
-        },
-        {
-          "tvmazeId": 91080,
-          "name": "World War II with Tom Hanks"
-        },
-        {
-          "tvmazeId": 63268,
-          "name": "DTF St. Louis"
-        },
-        {
-          "tvmazeId": 84424,
-          "name": "Mating Season"
-        },
-        {
-          "tvmazeId": 86006,
-          "name": "The Yogurt Shop Murders"
+          "tvmazeId": 77003,
+          "name": "Spider-Noir"
         },
         {
           "tvmazeId": 78706,
           "name": "Every Year After"
         },
         {
-          "tvmazeId": 87858,
-          "name": "If Wishes Could Kill"
+          "tvmazeId": 44778,
+          "name": "House of the Dragon"
         },
         {
-          "tvmazeId": 63234,
-          "name": "Daredevil: Born Again"
+          "tvmazeId": 76191,
+          "name": "Star City"
         },
         {
-          "tvmazeId": 69144,
-          "name": "Fatal Seduction"
+          "tvmazeId": 83378,
+          "name": "Teach You a Lesson"
         },
         {
-          "tvmazeId": 5,
-          "name": "True Detective"
+          "tvmazeId": 86435,
+          "name": "Alice and Steve"
         },
         {
-          "tvmazeId": 60408,
-          "name": "Achtsam Morden"
+          "tvmazeId": 91311,
+          "name": "Legends"
         },
         {
-          "tvmazeId": 76004,
-          "name": "How to Get to Heaven From Belfast"
+          "tvmazeId": 67313,
+          "name": "The Listeners"
         },
         {
-          "tvmazeId": 82,
-          "name": "Game of Thrones"
+          "tvmazeId": 92002,
+          "name": "The Polygamist"
         },
         {
-          "tvmazeId": 8161,
-          "name": "The Terror"
+          "tvmazeId": 54285,
+          "name": "BEEF"
         },
         {
-          "tvmazeId": 46065,
-          "name": "One Piece"
+          "tvmazeId": 63949,
+          "name": "A Good Girl's Guide to Murder"
         },
         {
-          "tvmazeId": 75010,
-          "name": "Patience"
+          "tvmazeId": 28826,
+          "name": "Euphoria"
         },
         {
-          "tvmazeId": 38052,
-          "name": "Silo"
+          "tvmazeId": 55414,
+          "name": "My Adventures with Superman"
         },
         {
-          "tvmazeId": 2285,
-          "name": "The Night Manager"
+          "tvmazeId": 58951,
+          "name": "X-Men '97"
         },
         {
-          "tvmazeId": 38963,
-          "name": "The Mandalorian"
+          "tvmazeId": 31918,
+          "name": "Rosario Tijeras"
+        },
+        {
+          "tvmazeId": 44885,
+          "name": "The Legend of Vox Machina"
+        },
+        {
+          "tvmazeId": 84539,
+          "name": "Dutton Ranch"
+        },
+        {
+          "tvmazeId": 73889,
+          "name": "The Four Seasons"
+        },
+        {
+          "tvmazeId": 35512,
+          "name": "The Capture"
+        },
+        {
+          "tvmazeId": 83015,
+          "name": "Not Suitable for Work"
+        },
+        {
+          "tvmazeId": 83053,
+          "name": "Nemesis"
+        },
+        {
+          "tvmazeId": 15299,
+          "name": "The Boys"
+        },
+        {
+          "tvmazeId": 92299,
+          "name": "Michael Jackson: The Verdict"
+        },
+        {
+          "tvmazeId": 73484,
+          "name": "Your Friends & Neighbors"
+        },
+        {
+          "tvmazeId": 78622,
+          "name": "Among Us"
+        },
+        {
+          "tvmazeId": 51394,
+          "name": "The White Lotus"
+        },
+        {
+          "tvmazeId": 92353,
+          "name": "Fix the Error!"
+        },
+        {
+          "tvmazeId": 216,
+          "name": "Rick and Morty"
+        },
+        {
+          "tvmazeId": 68689,
+          "name": "Deli Boys"
+        },
+        {
+          "tvmazeId": 74839,
+          "name": "Half Man"
+        },
+        {
+          "tvmazeId": 38894,
+          "name": "Sweet Magnolias"
+        },
+        {
+          "tvmazeId": 59241,
+          "name": "Berlín"
+        },
+        {
+          "tvmazeId": 74442,
+          "name": "Margo's Got Money Troubles"
+        },
+        {
+          "tvmazeId": 55352,
+          "name": "Clarkson's Farm"
+        },
+        {
+          "tvmazeId": 66900,
+          "name": "Outlast"
+        },
+        {
+          "tvmazeId": 80978,
+          "name": "It's Not Like That"
+        },
+        {
+          "tvmazeId": 78442,
+          "name": "Something Very Bad is Going to Happen"
+        },
+        {
+          "tvmazeId": 41414,
+          "name": "For All Mankind"
+        },
+        {
+          "tvmazeId": 86175,
+          "name": "Pluribus"
+        },
+        {
+          "tvmazeId": 43450,
+          "name": "Kastanjemanden"
+        },
+        {
+          "tvmazeId": 88862,
+          "name": "Rooster"
+        },
+        {
+          "tvmazeId": 67765,
+          "name": "Man on Fire"
+        },
+        {
+          "tvmazeId": 92024,
+          "name": "Bring Me the Beauties: A Model Cult"
+        },
+        {
+          "tvmazeId": 64087,
+          "name": "Rivals"
+        },
+        {
+          "tvmazeId": 75632,
+          "name": "The Pitt"
+        },
+        {
+          "tvmazeId": 62463,
+          "name": "Sugar"
+        },
+        {
+          "tvmazeId": 81110,
+          "name": "Harlan Coben's I Will Find You"
+        },
+        {
+          "tvmazeId": 51274,
+          "name": "The Sex Lives of College Girls"
+        },
+        {
+          "tvmazeId": 80059,
+          "name": "The Other Bennet Sister"
+        },
+        {
+          "tvmazeId": 85269,
+          "name": "Heated Rivalry"
+        },
+        {
+          "tvmazeId": 68242,
+          "name": "Lord of the Flies"
+        },
+        {
+          "tvmazeId": 91660,
+          "name": "Sapne Vs Everyone"
+        },
+        {
+          "tvmazeId": 57465,
+          "name": "All the Queen's Men"
+        },
+        {
+          "tvmazeId": 45834,
+          "name": "Citadel"
         },
         {
           "tvmazeId": 39868,
           "name": "Mirzapur"
         },
         {
-          "tvmazeId": 90692,
-          "name": "My Royal Nemesis"
+          "tvmazeId": 82604,
+          "name": "Tip Toe"
         },
         {
-          "tvmazeId": 45975,
-          "name": "The Cleaning Lady"
-        },
-        {
-          "tvmazeId": 83618,
-          "name": "Bad Thoughts"
-        },
-        {
-          "tvmazeId": 43031,
-          "name": "Reacher"
-        },
-        {
-          "tvmazeId": 30770,
-          "name": "Chernobyl"
+          "tvmazeId": 71529,
+          "name": "Devil May Cry"
         },
         {
           "tvmazeId": 67,
           "name": "Grey's Anatomy"
         },
         {
-          "tvmazeId": 44778,
-          "name": "House of the Dragon"
+          "tvmazeId": 54914,
+          "name": "Hacks"
         },
         {
-          "tvmazeId": 49041,
-          "name": "Fallout"
+          "tvmazeId": 8161,
+          "name": "The Terror"
         },
         {
-          "tvmazeId": 26020,
-          "name": "Young Sheldon"
+          "tvmazeId": 75010,
+          "name": "Patience"
+        },
+        {
+          "tvmazeId": 73127,
+          "name": "The Madison"
+        },
+        {
+          "tvmazeId": 75637,
+          "name": "Imperfect Women"
+        },
+        {
+          "tvmazeId": 62800,
+          "name": "Surviving Earth"
+        },
+        {
+          "tvmazeId": 92037,
+          "name": "The Evil Lawyer"
+        },
+        {
+          "tvmazeId": 5,
+          "name": "True Detective"
+        },
+        {
+          "tvmazeId": 28717,
+          "name": "Good Omens"
+        },
+        {
+          "tvmazeId": 82,
+          "name": "Game of Thrones"
+        },
+        {
+          "tvmazeId": 2285,
+          "name": "The Night Manager"
+        },
+        {
+          "tvmazeId": 45531,
+          "name": "The Testaments"
+        },
+        {
+          "tvmazeId": 87858,
+          "name": "If Wishes Could Kill"
+        },
+        {
+          "tvmazeId": 76004,
+          "name": "How to Get to Heaven From Belfast"
+        },
+        {
+          "tvmazeId": 66794,
+          "name": "The Agency: Unfiltered"
+        },
+        {
+          "tvmazeId": 63268,
+          "name": "DTF St. Louis"
+        },
+        {
+          "tvmazeId": 2993,
+          "name": "Stranger Things"
+        },
+        {
+          "tvmazeId": 92001,
+          "name": "Oasis"
+        },
+        {
+          "tvmazeId": 92448,
+          "name": "The Season"
+        },
+        {
+          "tvmazeId": 62628,
+          "name": "Criminal Record"
+        },
+        {
+          "tvmazeId": 46211,
+          "name": "Power Book III: Raising Kanan"
+        },
+        {
+          "tvmazeId": 66544,
+          "name": "Lawmen: Bass Reeves"
+        },
+        {
+          "tvmazeId": 1869,
+          "name": "Alone"
+        },
+        {
+          "tvmazeId": 84526,
+          "name": "Marshals"
+        },
+        {
+          "tvmazeId": 84424,
+          "name": "Mating Season"
+        },
+        {
+          "tvmazeId": 83935,
+          "name": "You're Killing Me"
         },
         {
           "tvmazeId": 552,
           "name": "The King of Queens"
         },
         {
-          "tvmazeId": 45856,
-          "name": "La Brea"
+          "tvmazeId": 43031,
+          "name": "Reacher"
         },
         {
-          "tvmazeId": 61093,
-          "name": "Obsession"
+          "tvmazeId": 46065,
+          "name": "One Piece"
         },
         {
-          "tvmazeId": 28276,
-          "name": "The Witcher"
+          "tvmazeId": 63234,
+          "name": "Daredevil: Born Again"
         },
         {
-          "tvmazeId": 75030,
-          "name": "Paradise"
+          "tvmazeId": 45975,
+          "name": "The Cleaning Lady"
+        },
+        {
+          "tvmazeId": 90692,
+          "name": "My Royal Nemesis"
+        },
+        {
+          "tvmazeId": 84190,
+          "name": "Star Wars: Maul - Shadow Lord"
         }
       ]
     }
