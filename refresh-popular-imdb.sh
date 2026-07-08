@@ -119,9 +119,12 @@ fi
 echo "         ---"
 
 echo
-echo "==> [4/6] Copying top_shows.json → poster-index.json..."
-cp "$TOP_SHOWS_OUTPUT" "$POSTER_INDEX"
-echo "         $(python3 -c "import json; print(len(json.load(open('$POSTER_INDEX'))['entries']))") entries written."
+echo "==> [4/6] Merging top_shows.json → poster-index.json (keep prior tail for coverage)..."
+# NOT a plain copy: IMDb's chart is only 100 deep, but poster-index.json is a
+# ~500-show poster-match index. merge-poster-index.py unions the fresh 100 on top
+# (so the onboarding top-99 stays IMDb-ranked) while preserving previously-indexed
+# shows below it, so poster coverage isn't lost. See that script's header.
+"$LISTS_DIR/merge-poster-index.py" "$TOP_SHOWS_OUTPUT" "$POSTER_INDEX"
 
 echo
 echo "==> [5/6] Regenerating onboarding-lists.json (top 99)..."
