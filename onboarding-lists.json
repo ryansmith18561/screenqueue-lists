@@ -7,400 +7,400 @@
       "subtitle": "The shows trending in ScreenQ right now.",
       "shows": [
         {
-          "tvmazeId": 50907,
-          "name": "DAHMER - Monster: The Jeffrey Dahmer Story"
-        },
-        {
-          "tvmazeId": 82707,
-          "name": "Neagley"
-        },
-        {
-          "tvmazeId": 44776,
-          "name": "Lanterns"
-        },
-        {
           "tvmazeId": 75026,
           "name": "MobLand"
         },
         {
-          "tvmazeId": 64992,
-          "name": "The Gentlemen"
+          "tvmazeId": 66811,
+          "name": "Nocturne"
         },
         {
-          "tvmazeId": 30,
-          "name": "American Horror Story"
+          "tvmazeId": 68407,
+          "name": "Black Doves"
         },
         {
-          "tvmazeId": 50415,
-          "name": "Lioness"
+          "tvmazeId": 78665,
+          "name": "Dexter: Resurrection"
         },
         {
-          "tvmazeId": 45039,
-          "name": "Slow Horses"
+          "tvmazeId": 64950,
+          "name": "VisionQuest"
         },
         {
-          "tvmazeId": 68625,
-          "name": "Brothers"
+          "tvmazeId": 31396,
+          "name": "Black Clover"
         },
         {
-          "tvmazeId": 44458,
-          "name": "Ted Lasso"
-        },
-        {
-          "tvmazeId": 91916,
-          "name": "A Different World"
-        },
-        {
-          "tvmazeId": 43031,
-          "name": "Reacher"
-        },
-        {
-          "tvmazeId": 79390,
-          "name": "Widow's Bay"
-        },
-        {
-          "tvmazeId": 116,
-          "name": "The Mentalist"
-        },
-        {
-          "tvmazeId": 38052,
-          "name": "Silo"
-        },
-        {
-          "tvmazeId": 82,
-          "name": "Game of Thrones"
-        },
-        {
-          "tvmazeId": 86463,
-          "name": "The Blame"
-        },
-        {
-          "tvmazeId": 61315,
-          "name": "Dark Matter"
-        },
-        {
-          "tvmazeId": 93792,
-          "name": "Youth"
-        },
-        {
-          "tvmazeId": 92984,
-          "name": "El problema final"
-        },
-        {
-          "tvmazeId": 169,
-          "name": "Breaking Bad"
-        },
-        {
-          "tvmazeId": 48090,
-          "name": "Star Trek: Strange New Worlds"
-        },
-        {
-          "tvmazeId": 78183,
-          "name": "Last Seen"
-        },
-        {
-          "tvmazeId": 87753,
-          "name": "Furious"
-        },
-        {
-          "tvmazeId": 90632,
-          "name": "Line of Fire"
-        },
-        {
-          "tvmazeId": 52279,
-          "name": "Mushoku Tensei: Jobless Reincarnation"
-        },
-        {
-          "tvmazeId": 83360,
-          "name": "Stuart Fails to Save the Universe"
-        },
-        {
-          "tvmazeId": 84556,
-          "name": "Best Medicine"
-        },
-        {
-          "tvmazeId": 527,
-          "name": "The Sopranos"
-        },
-        {
-          "tvmazeId": 14459,
-          "name": "Re:Zero kara Hajimeru Isekai Seikatsu"
-        },
-        {
-          "tvmazeId": 179,
-          "name": "The Wire"
-        },
-        {
-          "tvmazeId": 75632,
-          "name": "The Pitt"
-        },
-        {
-          "tvmazeId": 84262,
-          "name": "American Hostage"
-        },
-        {
-          "tvmazeId": 82330,
-          "name": "Marble Hall Murders"
-        },
-        {
-          "tvmazeId": 90817,
-          "name": "Steel Ball Run: JoJo's Bizarre Adventure"
-        },
-        {
-          "tvmazeId": 44778,
-          "name": "House of the Dragon"
-        },
-        {
-          "tvmazeId": 86983,
-          "name": "Crew Girl"
-        },
-        {
-          "tvmazeId": 32938,
-          "name": "The Rookie"
-        },
-        {
-          "tvmazeId": 19,
-          "name": "Supernatural"
-        },
-        {
-          "tvmazeId": 92590,
-          "name": "De Eetclub"
-        },
-        {
-          "tvmazeId": 919,
-          "name": "Attack on Titan"
-        },
-        {
-          "tvmazeId": 5,
-          "name": "True Detective"
-        },
-        {
-          "tvmazeId": 84527,
-          "name": "R.J. Decker"
-        },
-        {
-          "tvmazeId": 112,
-          "name": "South Park"
-        },
-        {
-          "tvmazeId": 73,
-          "name": "The Walking Dead"
-        },
-        {
-          "tvmazeId": 618,
-          "name": "Better Call Saul"
-        },
-        {
-          "tvmazeId": 75701,
-          "name": "The Beast in Me"
-        },
-        {
-          "tvmazeId": 15315,
-          "name": "Fauda"
-        },
-        {
-          "tvmazeId": 44933,
-          "name": "Severance"
-        },
-        {
-          "tvmazeId": 465,
-          "name": "Band of Brothers"
-        },
-        {
-          "tvmazeId": 92870,
-          "name": "Wonka's The Golden Ticket"
-        },
-        {
-          "tvmazeId": 347,
-          "name": "It's Always Sunny in Philadelphia"
-        },
-        {
-          "tvmazeId": 526,
-          "name": "The Office"
-        },
-        {
-          "tvmazeId": 81,
-          "name": "Criminal Minds"
-        },
-        {
-          "tvmazeId": 75030,
-          "name": "Paradise"
-        },
-        {
-          "tvmazeId": 79932,
-          "name": "Off Campus"
-        },
-        {
-          "tvmazeId": 82911,
-          "name": "Sterling Point"
-        },
-        {
-          "tvmazeId": 93793,
-          "name": "Seni Tanıyorum"
-        },
-        {
-          "tvmazeId": 2993,
-          "name": "Stranger Things"
-        },
-        {
-          "tvmazeId": 23470,
-          "name": "Succession"
-        },
-        {
-          "tvmazeId": 216,
-          "name": "Rick and Morty"
-        },
-        {
-          "tvmazeId": 53777,
-          "name": "Landman"
-        },
-        {
-          "tvmazeId": 385,
-          "name": "Mad Men"
-        },
-        {
-          "tvmazeId": 103,
-          "name": "Law & Order: Special Victims Unit"
-        },
-        {
-          "tvmazeId": 28160,
-          "name": "SEAL Team"
-        },
-        {
-          "tvmazeId": 51394,
-          "name": "The White Lotus"
-        },
-        {
-          "tvmazeId": 2,
-          "name": "Person of Interest"
-        },
-        {
-          "tvmazeId": 1505,
-          "name": "One Piece"
-        },
-        {
-          "tvmazeId": 79399,
-          "name": "East of Eden"
-        },
-        {
-          "tvmazeId": 27848,
-          "name": "Yellowstone"
-        },
-        {
-          "tvmazeId": 86175,
-          "name": "Pluribus"
-        },
-        {
-          "tvmazeId": 80375,
-          "name": "Bleach: Thousand-Year Blood War"
-        },
-        {
-          "tvmazeId": 525,
-          "name": "Gilmore Girls"
-        },
-        {
-          "tvmazeId": 150,
-          "name": "Shameless"
-        },
-        {
-          "tvmazeId": 1137,
-          "name": "Party Down"
-        },
-        {
-          "tvmazeId": 54198,
-          "name": "The Bear"
-        },
-        {
-          "tvmazeId": 92838,
-          "name": "S.W.A.T. Exiles"
-        },
-        {
-          "tvmazeId": 161,
-          "name": "Dexter"
-        },
-        {
-          "tvmazeId": 60213,
-          "name": "The Diplomat"
-        },
-        {
-          "tvmazeId": 68919,
-          "name": "Ludwig"
-        },
-        {
-          "tvmazeId": 92751,
-          "name": "The Drop: A Snowfall Saga"
-        },
-        {
-          "tvmazeId": 84622,
-          "name": "Anna Pigeon"
-        },
-        {
-          "tvmazeId": 67884,
-          "name": "Doc"
-        },
-        {
-          "tvmazeId": 68193,
-          "name": "The Shards"
-        },
-        {
-          "tvmazeId": 1734,
-          "name": "The Lizzie Borden Chronicles"
-        },
-        {
-          "tvmazeId": 305,
-          "name": "Black Mirror"
-        },
-        {
-          "tvmazeId": 81110,
-          "name": "Harlan Coben's I Will Find You"
+          "tvmazeId": 45562,
+          "name": "Carrie"
         },
         {
           "tvmazeId": 54723,
           "name": "FROM"
         },
         {
-          "tvmazeId": 93900,
-          "name": "Minerva - La scuola"
+          "tvmazeId": 47856,
+          "name": "The Terminal List"
         },
         {
-          "tvmazeId": 16149,
-          "name": "Fleabag"
+          "tvmazeId": 92449,
+          "name": "Campus Drivers"
         },
         {
-          "tvmazeId": 431,
-          "name": "Friends"
-        },
-        {
-          "tvmazeId": 74829,
-          "name": "The Split Up"
-        },
-        {
-          "tvmazeId": 67,
-          "name": "Grey's Anatomy"
+          "tvmazeId": 45039,
+          "name": "Slow Horses"
         },
         {
           "tvmazeId": 86587,
           "name": "War"
         },
         {
-          "tvmazeId": 15299,
-          "name": "The Boys"
+          "tvmazeId": 79399,
+          "name": "East of Eden"
         },
         {
-          "tvmazeId": 83946,
-          "name": "Adults"
+          "tvmazeId": 64960,
+          "name": "Crystal Lake"
         },
         {
-          "tvmazeId": 41007,
-          "name": "Loki"
+          "tvmazeId": 60213,
+          "name": "The Diplomat"
         },
         {
-          "tvmazeId": 46562,
-          "name": "The Last of Us"
+          "tvmazeId": 77060,
+          "name": "Nobody Wants This"
         },
         {
-          "tvmazeId": 74979,
-          "name": "Tires"
+          "tvmazeId": 34685,
+          "name": "The Gilded Age"
+        },
+        {
+          "tvmazeId": 116,
+          "name": "The Mentalist"
+        },
+        {
+          "tvmazeId": 93115,
+          "name": "Below"
+        },
+        {
+          "tvmazeId": 82,
+          "name": "Game of Thrones"
+        },
+        {
+          "tvmazeId": 73877,
+          "name": "Criminal"
+        },
+        {
+          "tvmazeId": 59344,
+          "name": "Tulsa King"
+        },
+        {
+          "tvmazeId": 90035,
+          "name": "The Remarried Empress"
+        },
+        {
+          "tvmazeId": 61324,
+          "name": "IT: Welcome to Derry"
+        },
+        {
+          "tvmazeId": 84377,
+          "name": "Dead-End Job"
+        },
+        {
+          "tvmazeId": 169,
+          "name": "Breaking Bad"
+        },
+        {
+          "tvmazeId": 33352,
+          "name": "The Lord of the Rings: The Rings of Power"
+        },
+        {
+          "tvmazeId": 95443,
+          "name": "Other Worlds: A Stranger Things Adventure"
+        },
+        {
+          "tvmazeId": 44458,
+          "name": "Ted Lasso"
+        },
+        {
+          "tvmazeId": 93263,
+          "name": "Yaga"
+        },
+        {
+          "tvmazeId": 64992,
+          "name": "The Gentlemen"
+        },
+        {
+          "tvmazeId": 74826,
+          "name": "This City Is Ours"
+        },
+        {
+          "tvmazeId": 50701,
+          "name": "Lupin"
+        },
+        {
+          "tvmazeId": 85583,
+          "name": "Trinity"
+        },
+        {
+          "tvmazeId": 82227,
+          "name": "Stick"
+        },
+        {
+          "tvmazeId": 78326,
+          "name": "The Greatest"
+        },
+        {
+          "tvmazeId": 46573,
+          "name": "Ghosts"
+        },
+        {
+          "tvmazeId": 77768,
+          "name": "The Rainmaker"
+        },
+        {
+          "tvmazeId": 30,
+          "name": "American Horror Story"
+        },
+        {
+          "tvmazeId": 161,
+          "name": "Dexter"
+        },
+        {
+          "tvmazeId": 38052,
+          "name": "Silo"
+        },
+        {
+          "tvmazeId": 67,
+          "name": "Grey's Anatomy"
+        },
+        {
+          "tvmazeId": 79390,
+          "name": "Widow's Bay"
+        },
+        {
+          "tvmazeId": 2993,
+          "name": "Stranger Things"
+        },
+        {
+          "tvmazeId": 93881,
+          "name": "Bytet"
+        },
+        {
+          "tvmazeId": 61315,
+          "name": "Dark Matter"
+        },
+        {
+          "tvmazeId": 32938,
+          "name": "The Rookie"
+        },
+        {
+          "tvmazeId": 79196,
+          "name": "Cupertino"
+        },
+        {
+          "tvmazeId": 43031,
+          "name": "Reacher"
+        },
+        {
+          "tvmazeId": 919,
+          "name": "Attack on Titan"
+        },
+        {
+          "tvmazeId": 103,
+          "name": "Law & Order: Special Victims Unit"
+        },
+        {
+          "tvmazeId": 83073,
+          "name": "Avatar: Seven Havens"
+        },
+        {
+          "tvmazeId": 527,
+          "name": "The Sopranos"
+        },
+        {
+          "tvmazeId": 78300,
+          "name": "All's Fair"
+        },
+        {
+          "tvmazeId": 48945,
+          "name": "Cyberpunk: Edgerunners"
+        },
+        {
+          "tvmazeId": 61740,
+          "name": "Will Trent"
+        },
+        {
+          "tvmazeId": 63873,
+          "name": "Phony"
+        },
+        {
+          "tvmazeId": 48108,
+          "name": "Percy Jackson and the Olympians"
+        },
+        {
+          "tvmazeId": 112,
+          "name": "South Park"
+        },
+        {
+          "tvmazeId": 19,
+          "name": "Supernatural"
+        },
+        {
+          "tvmazeId": 73,
+          "name": "The Walking Dead"
+        },
+        {
+          "tvmazeId": 79867,
+          "name": "Mistletoe Murders"
+        },
+        {
+          "tvmazeId": 75632,
+          "name": "The Pitt"
+        },
+        {
+          "tvmazeId": 50907,
+          "name": "DAHMER - Monster: The Jeffrey Dahmer Story"
+        },
+        {
+          "tvmazeId": 44776,
+          "name": "Lanterns"
+        },
+        {
+          "tvmazeId": 50415,
+          "name": "Lioness"
+        },
+        {
+          "tvmazeId": 93569,
+          "name": "Minimum Wage"
+        },
+        {
+          "tvmazeId": 60,
+          "name": "NCIS"
+        },
+        {
+          "tvmazeId": 618,
+          "name": "Better Call Saul"
+        },
+        {
+          "tvmazeId": 90817,
+          "name": "Steel Ball Run: JoJo's Bizarre Adventure"
+        },
+        {
+          "tvmazeId": 526,
+          "name": "The Office"
+        },
+        {
+          "tvmazeId": 68625,
+          "name": "Brothers"
+        },
+        {
+          "tvmazeId": 84641,
+          "name": "The Lowdown"
+        },
+        {
+          "tvmazeId": 84556,
+          "name": "Best Medicine"
+        },
+        {
+          "tvmazeId": 5,
+          "name": "True Detective"
+        },
+        {
+          "tvmazeId": 76568,
+          "name": "Sheriff Country"
+        },
+        {
+          "tvmazeId": 75363,
+          "name": "North of North"
+        },
+        {
+          "tvmazeId": 431,
+          "name": "Friends"
+        },
+        {
+          "tvmazeId": 44778,
+          "name": "House of the Dragon"
+        },
+        {
+          "tvmazeId": 179,
+          "name": "The Wire"
+        },
+        {
+          "tvmazeId": 81,
+          "name": "Criminal Minds"
+        },
+        {
+          "tvmazeId": 44933,
+          "name": "Severance"
+        },
+        {
+          "tvmazeId": 93792,
+          "name": "Youth"
+        },
+        {
+          "tvmazeId": 1505,
+          "name": "One Piece"
+        },
+        {
+          "tvmazeId": 84836,
+          "name": "Scrubs"
+        },
+        {
+          "tvmazeId": 45840,
+          "name": "Mayor of Kingstown"
+        },
+        {
+          "tvmazeId": 491,
+          "name": "Star Trek: The Next Generation"
+        },
+        {
+          "tvmazeId": 79107,
+          "name": "The Assassin"
+        },
+        {
+          "tvmazeId": 53063,
+          "name": "A Knight of the Seven Kingdoms"
+        },
+        {
+          "tvmazeId": 51394,
+          "name": "The White Lotus"
+        },
+        {
+          "tvmazeId": 82707,
+          "name": "Neagley"
+        },
+        {
+          "tvmazeId": 63192,
+          "name": "Tracker"
+        },
+        {
+          "tvmazeId": 79932,
+          "name": "Off Campus"
+        },
+        {
+          "tvmazeId": 84526,
+          "name": "Marshals"
+        },
+        {
+          "tvmazeId": 53777,
+          "name": "Landman"
+        },
+        {
+          "tvmazeId": 68803,
+          "name": "Harry Potter"
+        },
+        {
+          "tvmazeId": 83153,
+          "name": "Adultery"
+        },
+        {
+          "tvmazeId": 305,
+          "name": "Black Mirror"
+        },
+        {
+          "tvmazeId": 23470,
+          "name": "Succession"
         }
       ]
     }
